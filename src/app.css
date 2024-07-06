@@ -19,12 +19,6 @@ header {
             radial-gradient(#4f4f6e, #4f4f6e);
 }
 
-section img {
-    width: 250px;
-    border-radius: 10%;
-    margin-top: 1em;
-    text-align: center;
-}
 
 h1 {
     color: #2a2a5a;
