@@ -10,6 +10,7 @@
         <li><a href="/">Home</a></li>
         <li><a href="/about">About me</a></li>
         <li><a href="/experience">Experience</a></li>
+        <li><a href="/comic">Comic</a></li>
       </ul>
     </nav>
   </header>
